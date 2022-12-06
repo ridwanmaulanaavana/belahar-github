@@ -5,4 +5,6 @@ func main(){
 	//ini untuk ngefix bug
 	//ini fitur go food dengan diskon gila"an..
 	//Dimana skrng kita akan belajar bener" sampe berhasil
+	//gofood skrng udah bsa ngasih rekomendasi 100% akurat
+	
 }
